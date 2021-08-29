@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color:black;
+}
+.bskg{
+    font-size:30;
+    color: white;
+    border-radius:75px;
+    background-color: darkorchid;
+}
+.back{
+    position: fixed;
+    
+}
